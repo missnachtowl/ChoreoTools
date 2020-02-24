@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "648278005663",
+    "firebase_url": "https://choreotools.firebaseio.com",
+    "project_id": "choreotools",
+    "storage_bucket": "choreotools.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648278005663:android:c04cf0c33b264298344faa",
+        "android_client_info": {
+          "package_name": "com.choreotools"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648278005663-ph28ro1ef9n2jl5mhti83infnemg6sgq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.choreotools",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "648278005663-ask2f4tj5ve85v8vo2i5at4cd5lffvqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD96CMbcmUKLdr_p21m9B3vfKL1RdPooY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648278005663-ask2f4tj5ve85v8vo2i5at4cd5lffvqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
