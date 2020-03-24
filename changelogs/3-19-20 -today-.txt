@@ -1,2 +1,0 @@
-- finally installed auth, firestore, and cloud storage properly
-- had to write multiDexEnabled true in android{defaultConfig{}}
