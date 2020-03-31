@@ -1,4 +1,0 @@
-- finally installed auth, firestore, and cloud storage properly
-- had to write multiDexEnabled true in android{defaultConfig{}} to fix error
-- had a “Unsupported Modules Detected: Compilation is not supported for following modules” error
-  - found fix in this thread: https://stackoverflow.com/questions/28668252/android-studio-error-unsupported-modules-detected-compilation-is-not-supported
